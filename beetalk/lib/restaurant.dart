@@ -25,7 +25,7 @@ class MyTab extends StatelessWidget {
               tabs: [
                 Tab(
                     icon: Icon(
-                  Icons.directions_car,
+                  Icons.emoji_food_beverage_rounded,
                   color: Colors.yellow,
                 )),
                 Tab(
